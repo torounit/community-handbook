@@ -1,3 +1,7 @@
+updated: 2018-10-10
+---
+
+
 # WordPress コミュニティハンドブック
 
 こちらは [WordPress Community Handbooks](https://make.wordpress.org/community/handbook/) の翻訳用リポジトリです。
